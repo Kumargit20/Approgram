@@ -1,5 +1,6 @@
 package org.program;
 
+
 public class Program_001 {
 
 	public static void main(String[] args) {
@@ -11,12 +12,19 @@ public class Program_001 {
 			String substring = word.substring(1);
 			String output = upperCase+substring;
 			System.out.println(output);
+			System.out.println("kumaravelu 2031");
 			
 		}
+	
 			
 			
 		
 		}
+	public void ename() {
+	   String a=new String();
+	   a.charAt(2);
+		
+	}
 	
 }
 
